@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 72b73493728c06d4b93e9abd8a5dac91
+timeCreated: 1540757405
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Capture it(RUS BY LYAJKA)
+  fontNames:
+  - Capture it(RUS BY LYAJKA)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 834bb912fc6249043a744c2b98f7e5b4
+timeCreated: 1534338462
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kilton
+  fontNames:
+  - Kilton
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

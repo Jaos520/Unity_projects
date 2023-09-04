@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a674a41847403d64db2c229ced5c1c35
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Noatun
+  fontNames:
+  - Noatun
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 56c348cca3a196943802540f5e4beda4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
